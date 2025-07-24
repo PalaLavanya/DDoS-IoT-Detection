@@ -52,6 +52,4 @@ This project focuses on detecting **Distributed Denial of Service (DDoS)** attac
 
 ---
 
-## 📁 Repository Structure
-
 
